@@ -1,0 +1,157 @@
+{
+    "marcas" : [
+        {
+            "id" : 1,
+            "nombre" : "Alfa Romeo",
+            "modelos" : [
+                {
+                    "id" : 1,
+                    "nombre": "Giulietta"
+                },
+                {
+                    "id" : 2,
+                    "nombre": "MiTo"
+                },
+                {
+                    "id" : 3,
+                    "nombre": "Giulia"
+                },
+                {
+                    "id" : 4,
+                    "nombre": "Stelvio"
+                },
+                {
+                    "id" : 5,
+                    "nombre": "4C"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "nombre" : "Aston Martin",
+            "modelos": [
+                {
+                    "id" : 1,
+                    "nombre": "DB11"
+                },
+                {
+                    "id" : 2,
+                    "nombre": "Vantage"
+                },
+                {
+                    "id" : 3,
+                    "nombre": "Rapide"
+                },
+                {
+                    "id" : 4,
+                    "nombre": "Vanquish"
+                },
+                {
+                    "id" : 5,
+                    "nombre": "DB9"
+                }
+            ]
+        }
+    ],
+    "registros": [
+        {
+            "id" : 1,
+            "Nombre Vendedor": "Juan Perez",
+            "Rut Vendedor" : "12345678-9",
+            "Patente Vehículo" : "CCAA34",
+            "Marca Vehiculo" : "Aston Martin",
+            "Modelo Vehiculo" : "DB11",
+            "Precio Vehiculo" : "1000000"
+        },
+        {
+            "id" : 2,
+            "Nombre Vendedor": "Pedro Perez",
+            "Rut Vendedor" : "12348344-2",
+            "Patente Vehículo" : "ACRA38",
+            "Marca Vehiculo" : "Alfa Romeo",
+            "Modelo Vehiculo" : "Giulietta",
+            "Precio Vehiculo" : "2000000"
+        },
+        {
+            "id" : 3,
+            "Nombre Vendedor": "Maria Perez",
+            "Rut Vendedor" : "18928128-9",
+            "Patente Vehículo" : "CETT04",
+            "Marca Vehiculo" : "Alfa Romeo",
+            "Modelo Vehiculo" : "Giulia",
+            "Precio Vehiculo" : "3000000"
+        },
+        {
+            "id" : 4,
+            "Nombre Vendedor": "Milagro Rodriguez",
+            "Rut Vendedor" : "22999887-2",
+            "Patente Vehículo" : "RGBV77",
+            "Marca Vehiculo" : "Aston Martin",
+            "Modelo Vehiculo" : "DB9",
+            "Precio Vehiculo" : "4000000"
+        },
+        {
+            "id" : 5,
+            "Nombre Vendedor": "Manuel Toro",
+            "Rut Vendedor" : "99845213-7",
+            "Patente Vehículo" : "FFGG22",
+            "Marca Vehiculo" : "Aston Martin",
+            "Modelo Vehiculo" : "DB11",
+            "Precio Vehiculo" : "5000000"
+        },
+        {
+            "id" : 6,
+            "Nombre Vendedor": "Javier Mora",
+            "Rut Vendedor" : "12336554-8",
+            "Patente Vehículo" : "JJKK22",
+            "Marca Vehiculo" : "Alfa Romeo",
+            "Modelo Vehiculo" : "Stelvio",
+            "Precio Vehiculo" : "1000000"
+        },
+        {
+            "id" : 7,
+            "Nombre Vendedor": "Belen Perez",
+            "Rut Vendedor" : "21445669-8",
+            "Patente Vehículo" : "RRTT45",
+            "Marca Vehiculo" : "Alfa Romeo",
+            "Modelo Vehiculo" : "Giulia",
+            "Precio Vehiculo" : "1000000"
+        },
+        {
+            "id" : 8,
+            "Nombre Vendedor": "Diego Castro",
+            "Rut Vendedor" : "22103665-0",
+            "Patente Vehículo" : "LLKK22",
+            "Marca Vehiculo" : "Aston Martin",
+            "Modelo Vehiculo" : "DB11",
+            "Precio Vehiculo" : "1000000"
+        },
+        {
+            "id": 9,
+            "Nombre Vendedor": "Jorge Perez",
+            "Rut Vendedor" : "12345678-9",
+            "Patente Vehículo" : "CCAA34",
+            "Marca Vehiculo" : "Aston Martin",
+            "Modelo Vehiculo" : "DB11",
+            "Precio Vehiculo" : "1000000"
+        },
+        {
+            "id" : 10,
+            "Nombre Vendedor": "Pedro Perez",
+            "Rut Vendedor" : "12348344-2",
+            "Patente Vehículo" : "ACRA38",
+            "Marca Vehiculo" : "Alfa Romeo",
+            "Modelo Vehiculo" : "Giulietta",
+            "Precio Vehiculo" : "2000000"
+        },
+        {
+            "id" : 11,
+            "Nombre Vendedor": "Fernando Lopez",
+            "Rut Vendedor" : "12323232-2",
+            "Patente Vehículo" : "ACRA38",
+            "Marca Vehiculo" : "Alfa Romeo",
+            "Modelo Vehiculo" : "Giulietta",
+            "Precio Vehiculo" : "2000000"
+        }
+    ]
+}
