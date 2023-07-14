@@ -76,7 +76,7 @@ export const Text = styled.span`
     }
 `
 
-export const SubTitle2 = styled.h1`
+export const SubTitle2 = styled.h2`
     font-style: normal;
     line-height: normal;
     @media (max-width: 768px) {
@@ -85,7 +85,7 @@ export const SubTitle2 = styled.h1`
     }
 `
 
-export const SubTitle3 = styled.h1`
+export const SubTitle3 = styled.h2`
     font-style: normal;
     line-height: normal;
     @media (max-width: 768px) {
